@@ -24,9 +24,12 @@ Program juga mendukung aksesibilitas pengguna kursi roda, dengan
 menghindari jalur yang tidak ramah disabilitas.
 
 Proyek ini membantu pengguna menentukan rute perjalanan yang paling
-efisien berdasarkan: - jarak tempuh, - penalti moda, - penalti
-transit, - penalti trotoar panjang (khusus kursi roda), - dan
-ketersediaan moda pada tiap edge.
+efisien berdasarkan: <br>
+- jarak tempuh, <br>
+- penalti moda, <br>
+- penalti transit, <br>
+- penalti trotoar panjang (khusus kursi roda), <br>
+- dan ketersediaan moda pada tiap edge.
 
 ------------------------------------------------------------------------
 
