@@ -60,6 +60,19 @@ Lokasi khusus yang dihubungkan ke beberapa node grid, misalnya:
 Special node otomatis dibuatkan edge pendek (0.1 km) ke node-node
 tersebut.
 
+### • Pembentukan Edge
+
+``` python
+def add_edge(graph: Dict[str, Dict[str, EdgeInfo]], a: str, b: str, edge_info: EdgeInfo) -> None:
+    if a not in graph: graph[a] = {}
+    if b not in graph: graph[b] = {}
+    
+    if b not in graph[a]:
+        graph[a][b] = edge_info
+        graph[b][a] = edge_info
+```
+Penggunaan _undeirected graph_ untuk menyimpan rute dari tiap titik. _Undirected graph_ digunakan karena tiap jalur memiliki akses ke kedua arah atau bolak-balik.
+
 ### • Edge Format
 
 ``` python
