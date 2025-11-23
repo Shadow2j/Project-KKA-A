@@ -123,6 +123,8 @@ Untuk mendeteksi penggunaan sidewalk berturut-turut:
 
     CONSECUTIVE_SIDEWALK_PENALTY = 0.8
 
+Nilai Consecutive Sidewalk Penalty digunakan mulai dari penggunaan sidewalk yang kedua pada kondisi penggunaan sidewalk secara berturut-turut 
+
 State yang dipertimbangkan pada A\*:
 
     (node, mode, consecutive_sidewalk_count)
