@@ -42,9 +42,7 @@ efisien berdasarkan: <br>
 <br>
 * Jalur Bus <br>
 ![WhatsApp Image 2025-11-09 at 19 47 10_67d35ac1](https://github.com/user-attachments/assets/6462fa1d-7248-4dd9-bcfa-c64527e15fb5)
-
 <br>
-
 
 Program menggunakan dua jenis node:
 
