@@ -37,6 +37,9 @@ ketersediaan moda pada tiap edge.
 * Pemetaan Graph <br>
 ![WhatsApp Image 2025-10-26 at 01 53 51_9744e963](https://github.com/user-attachments/assets/b08d0f66-3c21-4f80-afe0-ef575a01741e)
 <br>
+* Jalur Bus <br>
+![WhatsApp Image 2025-11-09 at 19 47 10_7dad0ab0](https://github.com/user-attachments/assets/23517bc1-b88e-46f9-a184-6140ef517972) <br>
+
 
 Program menggunakan dua jenis node:
 
